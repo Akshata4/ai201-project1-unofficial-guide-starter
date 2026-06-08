@@ -20,16 +20,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | SJSU Academic Catalog 2024–25 (PDF) | Full course descriptions, degree requirements, and academic policies | https://catalog.sjsu.edu/mime/media/17/7463/2024-2025+Academic+Catalog_1.pdf |
+| 2 | Rate My Professors – SJSU | Student reviews of professors across all departments | https://www.ratemyprofessors.com/school/881 |
+| 3 | SJSU Career Center – Job/Internship Search Guide | Official guide on networking, career fairs, Handshake, and LinkedIn for SJSU students | https://careercenter.sjsu.edu/resources/job-internship-search-guide/ |
+| 4 | SJSU Career Center – Internship Journey (PDF) | Step-by-step internship guide published by the SJSU Career Center | https://www.sjsu.edu/hspm/docs/internship_journey.pdf |
+| 5 | SJSU Financial Aid Brochure 2025–26 (PDF) | FAFSA, Cal Grant, scholarships, and financial aid types available to SJSU students | https://www.sjsu.edu/enrollmentmanagement/docs/fall2025/FinancialAid2025-26.pdf |
+| 6 | SJSU AS SmartPass & Transportation Overview | VTA SmartPass, biking, regional transit discounts, and commute options for students | https://www.sjsu.edu/as/departments/transportation-solutions/smartpass-overview/index.php |
+| 7 | SJSU AS Student Commute Guide (PDF) | Transit, parking, biking, and rideshare options around campus | https://www.sjsu.edu/as/docs/ts/Commute_Resc_Guides/studentcommuteguidenolyft.pdf |
+| 8 | SJSU Recognized Student Orgs (RSO List) | Full directory of ~450 active clubs, Greek life, and student organizations | https://www.sjsu.edu/getinvolved/student-orgs/index.php |
+| 9 | SJSU Student Wellness Center | Mental health, counseling (CAPS), health services, and well-being resources | https://www.sjsu.edu/wellness/ |
+| 10 | Spartan Eats – Campus Dining | Official campus dining provider info, locations, meal plans, and dining options | https://www.sjsu.edu/fabs/services/commercial/food.php |
 
 ---
 
