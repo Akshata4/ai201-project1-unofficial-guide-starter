@@ -20,8 +20,10 @@ This knowledge is valuable because while SJSU's Financial Aid and Scholarship Of
 | 6 | SJSU FASO – EOP Grant | Details on the Educational Opportunity Program grant for low-income and first-gen students | https://www.sjsu.edu/faso/types-of-aid/grants/eop-grant.php |
 | 7 | SJSU Financial Aid Brochure 2025–26 (PDF) | Comprehensive printable guide covering all aid types, Cal Grant, Pell, deadlines, and verification | https://www.sjsu.edu/enrollmentmanagement/docs/fall2025/FinancialAid2025-26.pdf |
 | 8 | SJSU AS – Associated Students Scholarships | A.S.-administered scholarships for continuing SJSU students including leadership and advocacy awards | https://www.sjsu.edu/as/departments/government/scholarships.php |
-| 9 | SJSU FASO – Financial Aid Fraud Avoidance (PDF) | Official handout warning students about scams and fraudulent aid offers | https://www.sjsu.edu/faso/docs/Avoid_Financial_Aid_Fraud.pdf |
+| 9 | SJSU FASO – Verification Process | Explains what verification is, why students are selected, and which documents to submit | https://www.sjsu.edu/faso/process/verification.php |
 | 10 | SJSU UndocuSpartan – Financial Aid Resources | Financial aid options specifically for undocumented and AB 540 students at SJSU | https://www.sjsu.edu/undocuspartan/paying-for-college/fin-aid-resources.php |
+| 11 | SJSU FASO – Loans | Overview of federal Direct Loans (subsidized, unsubsidized, PLUS) available to SJSU students | https://www.sjsu.edu/faso/types-of-aid/loans/index.php |
+| 12 | SJSU FASO – Work-Study | Federal Work-Study program details — eligibility, how to find positions, and pay | https://www.sjsu.edu/faso/types-of-aid/work-study/index.php |
 
 ---
 
@@ -117,6 +119,7 @@ Expected output: a Python function `chunk_text(text, source_type, chunk_size=450
 **2. Building the scraper**
 Input to Claude: the Documents table from this planning.md listing all 10 URLs, noting which are HTML and which are PDFs.
 Expected output: a Python script using `requests` + `BeautifulSoup` for HTML sources and `pdfplumber` for PDF sources, with per-source parsing logic and output saved as a list of raw text files.
+*Implemented in `ingest.py`. Note: the original Source 9 fraud PDF URL (404 as of 2026-06) was replaced with the FASO Verification page — more useful content and reliably available.*
 
 **3. Deduplication pass**
 Input to Claude: the Anticipated Challenges section describing the duplication risk, plus the chunk schema from step 1.
